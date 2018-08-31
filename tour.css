@@ -1,0 +1,171 @@
+@media only screen and (min-width:300px){
+  @font-face {
+      font-family: "Headliner No. 45";
+      src: url('HeadlinerNo.45 DEMO.ttf') format("truetype");
+  }
+  html{
+    width:100vw!important;
+  }
+  body{
+    background:url('Images/5d4b8a695f13852537c2cc9ba82d189f.jpg') 100% 100%;
+    text-decoration:none;
+    width:100%!important;
+    height:100vh;
+    background-size:cover!important;
+    top:0px;
+    left:0px!important;
+    margin:0;
+    position: relative;
+    background-position: left;
+    background-repeat: no-repeat;
+  }
+  header{
+    font-family: "Headliner No. 45","Arial Black","Eras Bold ITC"!important;
+    font-size: 480%;
+    color: #ffc107;
+    margin-left: 1%;
+    font-weight: 450;
+    line-height: 1.2;
+    top:-5px!important;
+    position:relative;
+  }
+  .conditions{
+    font-family: "Calibri","Consolas","Corbel"!important;
+    font-weight: 20!important;
+    width:100%!important;
+    margin-left: 5%!important;
+    margin-top: 5%;
+      display: inline-block;
+  }
+  .conditions ul{
+    padding:2%;
+  }
+  li{
+    color:#ffc107;
+  }
+  .conditions li p{
+    color:#ffffff;
+    font-size: 150%;
+  }
+  .but{
+    float:left;
+    margin-left: 19%!important;
+    margin:2%;
+    padding:1%;
+    padding-bottom: 8%;
+    width:60%;
+  }
+  .but button{
+    font-size: 160%;
+    color:#875813;
+    padding-left: 3%;
+    padding-right: 3%;
+  }
+  .row{
+    width:100%!important;
+  }
+  .us{
+    font-family: "Calibri","Consolas","Corbel"!important;
+    font-weight: 10!important;
+    background-color: rgba(248, 228, 216, 0.2);
+    float:right!important;
+    position:relative!important;
+    margin-left:5%!important;
+    width:100%;
+    display: inline-block;
+    height:50%!important;
+    padding-left:5%;
+    margin-top: 9%;
+  }
+  .foot{
+    margin-top: 3%!important;
+    display:none;
+  }
+  .foot p{
+    font-size:150%;
+    color:#ffc107;
+    margin-left:10%;
+    padding-top: 3%;
+    margin-right: 5%;
+  }
+}
+@media only screen and (min-width:600px){
+@font-face {
+    font-family: "Headliner No. 45";
+    src: url('HeadlinerNo.45 DEMO.ttf') format("truetype");
+}
+body{
+  background:url('Images/860734.jpg');
+  position: absolute;
+  text-decoration:none;
+  background-size: cover;
+  width:100%!important;
+}
+header{
+  font-family: "Headliner No. 45","Arial Black","Eras Bold ITC"!important;
+  font-size: 750%;
+  color: #ffc107;
+  margin-left: 3%;
+  font-weight: 500;
+  top:-20px!important;
+  position:relative;
+}
+.conditions{
+  font-family: "Calibri","Consolas","Corbel"!important;
+  font-weight: 20!important;
+  background-color: rgba(248, 228, 216, 0.2);
+  width:100%!important;
+  float:left;
+  margin-top: 2%;
+  margin-left: 3%!important;
+    display: inline-block;
+}
+.conditions ul{
+  padding:2%;
+}
+.conditions li p{
+  color:#ffffff;
+  font-size: 150%;
+}
+.but{
+  float:left;
+  margin-left: 27%!important;
+  margin:2%;
+  margin-top: 2%;
+  padding:1%;
+  padding-bottom: 0;
+  width:60%;
+}
+.but button{
+  font-size: 180%;
+  color:#875813;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+.row{
+  width:100%!important;
+}
+.us{
+  font-family: "Calibri","Consolas","Corbel"!important;
+  font-weight: 10!important;
+  background-color: rgba(248, 228, 216, 0.2);
+  float:right!important;
+  position:relative!important;
+  margin-left:5%!important;
+  width:100%;
+  display: inline-block;
+  height:50%!important;
+  padding-left:5%;
+  margin-top: 9%;
+}
+.foot{
+  margin-top:-2%!important;
+  display: block;
+}
+.foot p{
+  font-size:150%;
+  color:#ffc107;
+  margin-left:17%;
+  padding:-2%!important;
+}
+}

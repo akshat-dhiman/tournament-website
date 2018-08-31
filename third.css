@@ -1,0 +1,31 @@
+@media only screen and (min-width:250px){
+@font-face {
+    font-family: "Headliner No. 45";
+    src: url('HeadlinerNo.45 DEMO.ttf') format("truetype");
+}
+header{
+  font-family: "Headliner No. 45","Arial Black","Eras Bold ITC"!important;
+  font-size: 650%;
+  color: #ffc107;
+  margin-left: 9%;
+  font-weight: 400!important;
+  top:8px!important;
+  position:relative;
+}
+}
+@media only screen and (min-width:600px){
+  @font-face {
+      font-family: "Headliner No. 45";
+      src: url('HeadlinerNo.45 DEMO.ttf') format("truetype");
+  }
+  header{
+    font-family: "Headliner No. 45","Arial Black","Eras Bold ITC"!important;
+    font-size: 650%;
+    color: #ffc107;
+    margin-left: 40%;
+    font-weight: 400!important;
+    top:8px!important;
+    position:relative;
+  }
+
+}

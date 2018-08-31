@@ -1,0 +1,117 @@
+@media only screen and (min-width:250px){
+  @font-face {
+      font-family: "Headliner No. 45";
+      src: url('HeadlinerNo.45 DEMO.ttf') format("truetype");
+  }
+  header{
+    font-family: "Headliner No. 45","Arial Black","Eras Bold ITC"!important;
+    font-size: 450%;
+    color: #ffc107;
+    margin-left: 5%;
+    line-height: 1.2;
+    font-weight: 300!important;
+    top:8px!important;
+    position:relative;
+  }
+  body{
+    height: 100vh;
+    background: url('Images/d5EyhouaCNfP6DhKsstUT6.png') 100% 100%;
+    background-size: cover;
+  }
+  .yes{
+    font-family: "Calibri","Consolas","Corbel"!important;
+    font-weight: 20!important;
+    width:90%!important;
+    float:left;
+    margin-left: 5%!important;
+    display: inline-block!important;
+  }
+  .regs{
+    display:inline-block;
+    margin:5%;
+  }
+  .form-details{
+    width:60%;
+    background: transparent;
+    border:none;
+    outline: none;
+    border-bottom: 2px Solid #ffc107;
+  }
+  footer{
+    font-family: "Headliner No. 45","Arial Black","Eras Bold ITC"!important;
+    font-size: 650%;
+    color: #ff1c07;
+    margin: 3%!important;
+    margin-left: 7%;
+    margin-top: 30vh;
+    position: fixed;
+    font-weight: 400!important;
+    display:block!important;
+    bottom: 10px;
+  }
+  button{
+    color:#875813!important;
+    padding-left: 5%!important;
+    padding-right: 5%!important;
+    margin-left: 2%!important;
+  }
+
+}
+@media only screen and (min-width:600px)
+{
+@font-face {
+    font-family: "Headliner No. 45";
+    src: url('HeadlinerNo.45 DEMO.ttf') format("truetype");
+}
+header{
+  font-family: "Headliner No. 45","Arial Black","Eras Bold ITC"!important;
+  font-size: 650%;
+  color: #ffc107;
+  margin-left: 7%;
+  font-weight: 400!important;
+  top:8px!important;
+  position:relative;
+}
+body{
+  height: 100vh;
+    background: url('Images/d5EyhouaCNfP6DhKsstUT6.png') 100% 100%;
+}
+.yes{
+  font-family: "Calibri","Consolas","Corbel"!important;
+  font-weight: 20!important;
+  width:50%!important;
+  float:left;
+  margin-left: 3%!important;
+  display: inline-block!important;
+}
+.regs{
+  display:inline-block;
+  margin:4%;
+  padding-left: 5%;
+}
+.form-details{
+  width:50%;
+  background: transparent;
+  border:none;
+  outline: none;
+  border-bottom: 2px Solid #ffc107;
+}
+footer{
+  font-family: "Headliner No. 45","Arial Black","Eras Bold ITC"!important;
+  font-size: 650%;
+  color: #ff1c07;
+  margin: 3%!important;
+  margin-left: 7%;
+  margin-top: 30vh;
+  position: fixed;
+  font-weight: 400!important;
+  display:block!important;
+  bottom: 10px;
+}
+button{
+  color:#875813!important;
+  padding-left: 4%!important;
+  padding-right: 4%!important;
+  margin-left: 1%!important;
+}
+}
